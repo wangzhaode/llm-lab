@@ -284,7 +284,7 @@ def plot_speedup_results_combined(all_analysis_results: dict):
         ax.set_ylim(bottom=0)
 
     plt.tight_layout(rect=[0, 0, 1, 0.95]) # Adjusted rect to fit within the figure without external legend
-    plt.savefig('eagle3_compression_ratio.png', dpi=300)
+    plt.savefig('./res/eagle3_compression_ratio.png', dpi=300)
     plt.show()
 
 
