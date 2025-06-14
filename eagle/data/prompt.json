@@ -1,0 +1,128 @@
+{
+    "zh": [
+        {
+            "id": "zh_prompt_1_factual_list",
+            "text": "列出中国四大发明，并简要说明其在历史上的重要性。"
+        },
+        {
+            "id": "zh_prompt_2_explanation_llm",
+            "text": "请详细解释一下大型语言模型（LLM）的工作原理。你的解释应包含以下几个方面：1. 基本架构（如Transformer），2. 训练过程（预训练与微调），3. 关键技术（如注意力机制、Tokenization），4. 潜在的应用领域。"
+        },
+        {
+            "id": "zh_prompt_3_creative_poetry",
+            "text": "以“春日”为主题，创作一首五言绝句。诗中需包含“风”和“花”二字。"
+        },
+        {
+            "id": "zh_prompt_4_open_discussion_ai",
+            "text": "你认为未来十年，人工智能技术将如何深刻改变我们的日常生活？请从教育、医疗和交通三个方面展开阐述。"
+        },
+        {
+            "id": "zh_prompt_5_code_generation_fib",
+            "text": "请用Python编写一个函数，计算斐波那契数列的第N项（N从0开始），并给出使用示例。代码需包含docstring。"
+        },
+        {
+            "id": "zh_prompt_6_tech_trends",
+            "text": "你认为未来五年内，哪些新兴科技领域将迎来突破性进展？请列举至少三个领域并简要说明。"
+        },
+        {
+            "id": "zh_prompt_7_chinese_festival",
+            "text": "请解释中国传统节日春节（农历新年）的主要习俗和庆祝方式。"
+        },
+        {
+            "id": "zh_prompt_8_healthy_lifestyle",
+            "text": "对于保持身心健康，你有哪些实用的日常建议？请分享一些小技巧。"
+        },
+        {
+            "id": "zh_prompt_9_three_kingdoms",
+            "text": "简述中国三国时期魏蜀吴三国的建立与主要特点。"
+        },
+        {
+            "id": "zh_prompt_10_environmental_protection",
+            "text": "气候变化对全球环境造成了哪些主要影响？个人可以如何参与环境保护？"
+        }
+    ],
+    "en": [
+        {
+            "id": "en_prompt_1_product_features",
+            "text": "Describe a hypothetical smart home hub named 'EchoLink Pro'. List its five most innovative features, focusing on how they enhance user experience and connectivity within a smart home ecosystem."
+        },
+        {
+            "id": "en_prompt_2_explanation_quantum",
+            "text": "Elaborate on the concept of 'Quantum Entanglement' in quantum mechanics. Explain its core principles, the famous 'EPR paradox', and its potential implications for future technologies like quantum computing and communication. Your explanation should be clear and concise."
+        },
+        {
+            "id": "en_prompt_3_story_continuation",
+            "text": "Continue the story: 'The ancient map, yellowed with age, depicted a path leading deep into the Whispering Woods. Isabella, despite her grandmother's warnings, felt an irresistible pull towards the forgotten ruins it promised. As she stepped beneath the gnarled branches, the forest seemed to hold its breath, and a strange, melodic hum filled the air, growing louder with each step she took...'"
+        },
+        {
+            "id": "en_prompt_4_email_drafting",
+            "text": "Write a professional email to a potential client, Mr. John Smith, introducing our new cloud-based project management software, 'CloudFlow'. Highlight its benefits in streamlining team collaboration and enhancing productivity. Conclude with a call to action for a demo. The email should be concise and persuasive."
+        },
+        {
+            "id": "en_prompt_5_geography_capitals",
+            "text": "Name the capital cities of the following countries and their approximate populations (as of recent data): Canada, Brazil, Australia, India, and Germany. Present the information clearly for each country."
+        },
+        {
+            "id": "en_prompt_6_climate_change",
+            "text": "Explain the greenhouse effect and its role in global warming. What are the primary human activities contributing to it?"
+        },
+        {
+            "id": "en_prompt_7_character_description",
+            "text": "Describe a mysterious character named 'Silas' who only appears at dusk. Focus on his unusual habits and the aura he projects."
+        },
+        {
+            "id": "en_prompt_8_industrial_revolution",
+            "text": "Discuss the major social and economic impacts of the Industrial Revolution in 19th-century Britain."
+        },
+        {
+            "id": "en_prompt_9_book_recommendation",
+            "text": "Recommend three fantasy novels or series for someone who enjoys epic world-building and complex magic systems."
+        },
+        {
+            "id": "en_prompt_10_ai_ethics",
+            "text": "What are some ethical concerns surrounding the development and deployment of advanced artificial intelligence?"
+        }
+    ],
+    "multi": [
+        {
+            "id": "multi_prompt_1_chinese_travel",
+            "text": "请推荐一个适合家庭出游的中国城市，并说明理由。"
+        },
+        {
+            "id": "multi_prompt_2_english_summary",
+            "text": "Summarize the key differences between renewable and non-renewable energy sources."
+        },
+        {
+            "id": "multi_prompt_3_japanese_gratitude",
+            "text": "「ありがとう」以外に、感謝の気持ちを伝える日本語のフレーズをいくつか教えてください。"
+        },
+        {
+            "id": "multi_prompt_4_french_landmark",
+            "text": "Décrivez la Tour Eiffel à Paris, en incluant quelques faits historiques intéressants."
+        },
+        {
+            "id": "multi_prompt_5_russian_biography",
+            "text": "Кратко опишите биографию Льва Толстого и его основные произведения."
+        },
+        {
+            "id": "multi_prompt_6_german_cities",
+            "text": "Nennen Sie drei bekannte deutsche Städte und jeweils eine ihrer Hauptattraktionen."
+        },
+        {
+            "id": "multi_prompt_7_korean_food",
+            "text": "가장 좋아하는 한국 음식 세 가지를 추천하고 그 특징을 설명해주세요."
+        },
+        {
+            "id": "multi_prompt_8_spanish_greetings",
+            "text": "Dígame algunas formas comunes de saludar a la gente en español, aparte de 'Hola'."
+        },
+        {
+            "id": "multi_prompt_9_italian_art",
+            "text": "Nomina due famosi artisti italiani del Rinascimento e una delle loro opere più celebri."
+        },
+        {
+            "id": "multi_prompt_10_arabic_phrases",
+            "text": "اذكر ثلاث عبارات عربية شائعة تستخدم في الحياة اليومية."
+        }
+    ]
+}
