@@ -1,0 +1,242 @@
+{
+    "layer_0": {
+        "k_proj_bias_max": 20.25,
+        "q_proj_bias_max": 11.25,
+        "v_proj_bias_max": 2.8125
+    },
+    "layer_1": {
+        "k_proj_bias_max": 7.90625,
+        "q_proj_bias_max": 10.4375,
+        "v_proj_bias_max": 0.1298828125
+    },
+    "layer_2": {
+        "k_proj_bias_max": 10.375,
+        "q_proj_bias_max": 12.9375,
+        "v_proj_bias_max": 0.034912109375
+    },
+    "layer_3": {
+        "k_proj_bias_max": 25.5,
+        "q_proj_bias_max": 4.875,
+        "v_proj_bias_max": 0.2333984375
+    },
+    "layer_4": {
+        "k_proj_bias_max": 8.8125,
+        "q_proj_bias_max": 4.09375,
+        "v_proj_bias_max": 0.0908203125
+    },
+    "layer_5": {
+        "k_proj_bias_max": 2.359375,
+        "q_proj_bias_max": 12.8125,
+        "v_proj_bias_max": 0.2236328125
+    },
+    "layer_6": {
+        "k_proj_bias_max": 3.75,
+        "q_proj_bias_max": 10.0,
+        "v_proj_bias_max": 0.0869140625
+    },
+    "layer_7": {
+        "k_proj_bias_max": 2.78125,
+        "q_proj_bias_max": 8.125,
+        "v_proj_bias_max": 0.2421875
+    },
+    "layer_8": {
+        "k_proj_bias_max": 3.515625,
+        "q_proj_bias_max": 11.3125,
+        "v_proj_bias_max": 0.2734375
+    },
+    "layer_9": {
+        "k_proj_bias_max": 3.296875,
+        "q_proj_bias_max": 11.6875,
+        "v_proj_bias_max": 0.1123046875
+    },
+    "layer_10": {
+        "k_proj_bias_max": 3.890625,
+        "q_proj_bias_max": 11.8125,
+        "v_proj_bias_max": 0.400390625
+    },
+    "layer_11": {
+        "k_proj_bias_max": 5.5625,
+        "q_proj_bias_max": 13.3125,
+        "v_proj_bias_max": 0.1875
+    },
+    "layer_12": {
+        "k_proj_bias_max": 3.25,
+        "q_proj_bias_max": 12.9375,
+        "v_proj_bias_max": 0.255859375
+    },
+    "layer_13": {
+        "k_proj_bias_max": 4.0,
+        "q_proj_bias_max": 11.75,
+        "v_proj_bias_max": 0.41796875
+    },
+    "layer_14": {
+        "k_proj_bias_max": 2.875,
+        "q_proj_bias_max": 12.125,
+        "v_proj_bias_max": 0.310546875
+    },
+    "layer_15": {
+        "k_proj_bias_max": 4.78125,
+        "q_proj_bias_max": 10.75,
+        "v_proj_bias_max": 0.177734375
+    },
+    "layer_16": {
+        "k_proj_bias_max": 7.53125,
+        "q_proj_bias_max": 11.625,
+        "v_proj_bias_max": 0.31640625
+    },
+    "layer_17": {
+        "k_proj_bias_max": 5.3125,
+        "q_proj_bias_max": 10.125,
+        "v_proj_bias_max": 0.4296875
+    },
+    "layer_18": {
+        "k_proj_bias_max": 4.15625,
+        "q_proj_bias_max": 8.8125,
+        "v_proj_bias_max": 0.482421875
+    },
+    "layer_19": {
+        "k_proj_bias_max": 4.96875,
+        "q_proj_bias_max": 6.75,
+        "v_proj_bias_max": 0.369140625
+    },
+    "layer_20": {
+        "k_proj_bias_max": 3.234375,
+        "q_proj_bias_max": 10.8125,
+        "v_proj_bias_max": 0.57421875
+    },
+    "layer_21": {
+        "k_proj_bias_max": 5.65625,
+        "q_proj_bias_max": 9.4375,
+        "v_proj_bias_max": 0.65625
+    },
+    "layer_22": {
+        "k_proj_bias_max": 4.875,
+        "q_proj_bias_max": 11.1875,
+        "v_proj_bias_max": 0.330078125
+    },
+    "layer_23": {
+        "k_proj_bias_max": 13.5625,
+        "q_proj_bias_max": 11.125,
+        "v_proj_bias_max": 0.64453125
+    },
+    "layer_24": {
+        "k_proj_bias_max": 11.75,
+        "q_proj_bias_max": 11.6875,
+        "v_proj_bias_max": 0.984375
+    },
+    "layer_25": {
+        "k_proj_bias_max": 14.25,
+        "q_proj_bias_max": 8.5,
+        "v_proj_bias_max": 0.3203125
+    },
+    "layer_26": {
+        "k_proj_bias_max": 11.0,
+        "q_proj_bias_max": 8.6875,
+        "v_proj_bias_max": 0.51953125
+    },
+    "layer_27": {
+        "k_proj_bias_max": 13.1875,
+        "q_proj_bias_max": 9.3125,
+        "v_proj_bias_max": 0.33203125
+    },
+    "layer_28": {
+        "k_proj_bias_max": 10.0625,
+        "q_proj_bias_max": 12.75,
+        "v_proj_bias_max": 0.25390625
+    },
+    "layer_29": {
+        "k_proj_bias_max": 15.125,
+        "q_proj_bias_max": 8.1875,
+        "v_proj_bias_max": 0.5390625
+    },
+    "layer_30": {
+        "k_proj_bias_max": 8.4375,
+        "q_proj_bias_max": 10.5,
+        "v_proj_bias_max": 0.51171875
+    },
+    "layer_31": {
+        "k_proj_bias_max": 20.625,
+        "q_proj_bias_max": 11.25,
+        "v_proj_bias_max": 0.1787109375
+    },
+    "layer_32": {
+        "k_proj_bias_max": 8.375,
+        "q_proj_bias_max": 10.0,
+        "v_proj_bias_max": 0.76171875
+    },
+    "layer_33": {
+        "k_proj_bias_max": 10.125,
+        "q_proj_bias_max": 10.5625,
+        "v_proj_bias_max": 0.37890625
+    },
+    "layer_34": {
+        "k_proj_bias_max": 9.9375,
+        "q_proj_bias_max": 9.3125,
+        "v_proj_bias_max": 0.470703125
+    },
+    "layer_35": {
+        "k_proj_bias_max": 8.3125,
+        "q_proj_bias_max": 10.375,
+        "v_proj_bias_max": 1.5234375
+    },
+    "layer_36": {
+        "k_proj_bias_max": 12.5625,
+        "q_proj_bias_max": 9.0,
+        "v_proj_bias_max": 0.390625
+    },
+    "layer_37": {
+        "k_proj_bias_max": 4.21875,
+        "q_proj_bias_max": 9.625,
+        "v_proj_bias_max": 1.609375
+    },
+    "layer_38": {
+        "k_proj_bias_max": 5.0,
+        "q_proj_bias_max": 10.1875,
+        "v_proj_bias_max": 2.0625
+    },
+    "layer_39": {
+        "k_proj_bias_max": 7.75,
+        "q_proj_bias_max": 9.9375,
+        "v_proj_bias_max": 0.80859375
+    },
+    "layer_40": {
+        "k_proj_bias_max": 4.96875,
+        "q_proj_bias_max": 10.5,
+        "v_proj_bias_max": 2.453125
+    },
+    "layer_41": {
+        "k_proj_bias_max": 12.125,
+        "q_proj_bias_max": 11.1875,
+        "v_proj_bias_max": 0.41796875
+    },
+    "layer_42": {
+        "k_proj_bias_max": 5.25,
+        "q_proj_bias_max": 11.0625,
+        "v_proj_bias_max": 2.796875
+    },
+    "layer_43": {
+        "k_proj_bias_max": 3.875,
+        "q_proj_bias_max": 10.1875,
+        "v_proj_bias_max": 3.109375
+    },
+    "layer_44": {
+        "k_proj_bias_max": 4.40625,
+        "q_proj_bias_max": 9.9375,
+        "v_proj_bias_max": 0.71484375
+    },
+    "layer_45": {
+        "k_proj_bias_max": 6.9375,
+        "q_proj_bias_max": 9.625,
+        "v_proj_bias_max": 2.8125
+    },
+    "layer_46": {
+        "k_proj_bias_max": 6.9375,
+        "q_proj_bias_max": 7.28125,
+        "v_proj_bias_max": 4.6875
+    },
+    "layer_47": {
+        "k_proj_bias_max": 11.25,
+        "q_proj_bias_max": 5.46875,
+        "v_proj_bias_max": 1.9375
+    }
+}
