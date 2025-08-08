@@ -1,0 +1,6 @@
+9.11 和 9.9 哪个大?
+有一架飞机，停在一个和跑道一样长、一样宽的巨型跑步机上。跑步机的系统被设定为：无论飞机机轮的速度是多少，它都会以完全相同的速度向相反方向运动，从而抵消机轮的转动。请问，这架飞机能否成功起飞？
+你有一个完全密闭、内部是完美真空、并且100%不透光的坚固箱子。你在箱子里的天平上称量这个箱子。然后，你打开了箱子里的一支手电筒。请问，当手电筒亮着时，天平显示的重量会比之前更重、更轻，还是完全一样？
+你有两根不均匀的绳子，每根绳子从一头烧到另一头都正好需要1个小时。所谓不均匀，是指绳子可能前半段10分钟就烧完了，后半段却烧了50分钟。现在，只用这两根绳子和一个打火机，你如何精确地计时45分钟？
+I want to cool down a sealed room, so I leave my refrigerator door open inside it. Will the room's overall temperature eventually rise, lower, or stay the same?
+If all the people on Earth gathered in one place and all jumped at the exact same time, what would happen to the Earth? Would its orbit be altered?
